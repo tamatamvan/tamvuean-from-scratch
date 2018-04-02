@@ -21,6 +21,7 @@
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
+    "vue-loader": "^14.2.2",
     "webpack": "^4.4.1",
     "webpack-cli": "^2.0.13"
   }
