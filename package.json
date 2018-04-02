@@ -1,0 +1,19 @@
+{
+  "name": "tamvuean-from-scratch",
+  "version": "0.1.0",
+  "description": "A simple example app built with Vue.js, webpack 4 from scratch",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamatamvan/tamvuean-from-scratch.git"
+  },
+  "author": "tamatamvan <septian.a.tama@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamatamvan/tamvuean-from-scratch/issues"
+  },
+  "homepage": "https://github.com/tamatamvan/tamvuean-from-scratch#readme"
+}
