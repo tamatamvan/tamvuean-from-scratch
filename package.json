@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/tamatamvan/tamvuean-from-scratch/issues"
   },
-  "homepage": "https://github.com/tamatamvan/tamvuean-from-scratch#readme"
+  "homepage": "https://github.com/tamatamvan/tamvuean-from-scratch#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  }
 }
