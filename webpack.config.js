@@ -5,6 +5,11 @@ module.exports = {
   entry: [
     './src/main.js'
   ],
+  devServer: {
+    inline: true,
+    port: 8888,
+    contentBase: './'
+  },
   output: {
     path: __dirname + '/dist',
     publicPath: '/',
