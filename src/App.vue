@@ -1,6 +1,6 @@
 <template>
   <div id="vueapp">
-    <Home/>
+    <router-view/>
   </div>
 </template>
 
